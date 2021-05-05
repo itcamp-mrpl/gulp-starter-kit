@@ -1,0 +1,11 @@
+.btn {
+    outline: 0;
+    padding: 10px 20px;
+    background-color: lightblue;
+    border: 1px solid deepskyblue;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: deepskyblue;
+}
